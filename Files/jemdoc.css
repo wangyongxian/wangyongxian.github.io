@@ -505,3 +505,20 @@ p.pub_author{
 p.pub_link{
 	font-size: 14px	
 }
+
+table.noborder {
+	border-width: 0pt;
+}
+
+td {
+	border-width: 0pt;
+}
+.align-left {
+	text-align: left;
+}
+.align-right {
+	text-align: right;
+}
+.align-top {
+	vertical-align: top;
+}

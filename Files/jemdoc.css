@@ -506,7 +506,7 @@ p.pub_link{
 	font-size: 14px	
 }
 
-table.noborder {
+table .noborder {
 	border-width: 0pt;
 }
 
